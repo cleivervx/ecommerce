@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cleiver\\": "vendor\\hcodebr\\php-classes\\src"
+            "cleivervx\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
