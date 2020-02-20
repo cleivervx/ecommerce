@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInite63a6f9dd4082d2886b6d6b1320885ed
 {
     public static $prefixLengthsPsr4 = array (
-        'H' => 
+        'c' => 
         array (
-            'Hcode\\' => 6,
+            'cleiver\\' => 8,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Hcode\\' => 
+        'cleiver\\' => 
         array (
             0 => __DIR__ . '/..' . '/hcodebr/php-classes/src',
         ),
